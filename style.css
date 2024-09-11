@@ -47,3 +47,14 @@ body {
   justify-content: space-between;
   align-items: center;
 }
+
+.actions button {
+  background-color: var(--bg-color);
+  padding: 10px 12px;
+  color: white;
+  border-radius: 6px;
+  border: white;
+  cursor: pointer;
+  font-size: 14px;
+  font-weight: bold;
+}
